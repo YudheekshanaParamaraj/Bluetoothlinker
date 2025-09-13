@@ -12,3 +12,6 @@ Features
 Tech Stack
 -React.js (Frontend)
 -Web Bluetooth API (Device communication)
+
+
+(Connected through nRF connect in mobile device)
