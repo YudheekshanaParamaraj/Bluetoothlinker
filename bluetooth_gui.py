@@ -1,3 +1,5 @@
+ FIRST SAMPLE 
+
 import asyncio
 import threading
 import tkinter as tk
@@ -63,3 +65,4 @@ tk.Button(root, text="Connect", command=connect_device).pack(pady=5)
 tk.Button(root, text="Send Message", command=send_message).pack(pady=5)
 
 root.mainloop()
+
